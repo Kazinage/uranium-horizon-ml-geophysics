@@ -1,5 +1,6 @@
 # Uranium Horizon ML Geophysics
 
+[![CI](https://github.com/Kazinage/uranium-horizon-ml-geophysics/actions/workflows/ci.yml/badge.svg)](https://github.com/Kazinage/uranium-horizon-ml-geophysics/actions/workflows/ci.yml)
 **Leakage-aware Random Forest classification of productive uranium horizons from borehole geophysical logs, with geostatistical profile reconstruction.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
