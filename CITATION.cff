@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the associated research manuscript when appropriate."
+title: "Uranium Horizon ML Geophysics"
+type: software
+authors:
+  - family-names: Saduov
+    given-names: Alisher
+    orcid: "https://orcid.org/0000-0003-1501-7772"
+repository-code: "https://github.com/Kazinage/uranium-horizon-ml-geophysics"
+license: MIT
